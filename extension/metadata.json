@@ -1,0 +1,7 @@
+{
+  "name": "zen-vision",
+  "description": "draws Florence-2 detection boxes on screen",
+  "uuid": "zen-vision@neg-zero",
+  "version": 1,
+  "shell-version": ["45", "46", "47", "48", "49"]
+}
